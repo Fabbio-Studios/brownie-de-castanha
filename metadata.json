@@ -1,0 +1,8 @@
+{
+  "name": "Brownie de Castanha",
+  "description": "Tem história em cada pedaço. Brownie inspirado no cajueiro de Santa Maria, Rio Grande do Norte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
